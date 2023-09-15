@@ -8,7 +8,6 @@ Before you begin, ensure you have Python installed on your system. You can downl
 
 Make sure to install the required Python libraries using `pip`:
 
-```bash
 pip install requests
 
 Usage
