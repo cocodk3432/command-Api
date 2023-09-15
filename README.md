@@ -16,7 +16,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/cocodk3432/command-Api
 
 Navigate to the project directory:
 
